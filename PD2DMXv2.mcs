@@ -1,0 +1,215 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\pic-uart.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\dmx.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\isr.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\main.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\sev_seg_led.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\DEE16.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\Flash Operations.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File007]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\pd.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\module_address_fuctions.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File009]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\mydelay.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File010]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\max3430-control.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File011]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\channel_status_led_functions.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File012]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\low_batt_control.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File013]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\power_save.o
+Folder=Intermediary
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File014]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\PD2DMXv2.cof
+Folder=Output
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File015]
+Location=H:\Documents\Electronics\PD2DMX\V2 PIC24\Firmware\PD2DMXv2.hex
+Folder=Output
+DeviceName=PIC24FJ96GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|H:\My Documents\Electronics\PD2DMX\V2 PIC24\Firmware;H:\My Documents\Electronics\pic24F\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|H:\My Documents\Electronics\PIC24F\lib\pic-uart.c|dmx.c|isr.c|main.c|sev_seg_led.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\DEE16.c|H:\My Documents\Electronics\PIC24F\lib\DEE16\Flash Operations.s|pd.c|module_address_fuctions.c|H:\My Documents\Electronics\PIC24F\lib\mydelay.c|max3430-control.c|channel_status_led_functions.c|low_batt_control.c|power_save.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{DE18EB1A-B46B-486B-B96F-A811A635DFAC}=C:\Program Files\Microchip\MPLAB C30\bin\pic30-as.exe
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
